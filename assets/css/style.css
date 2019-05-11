@@ -3,14 +3,14 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("../images/Banksy-Murals-in-Barbican-London-pay-tribute-to-Jean-Michel-Basquiat-VIVISXN-MEDIA-Art-Fashion-Street-Style-London-Socially-Arresting-Art-VIVISXN-1200x750.jpg");
   }
   
   * {
     box-sizing: border-box;
   }
   
-  /* general */
+  
   
   .container {
     width: 100%;
@@ -50,7 +50,7 @@ body {
     font-size: 22px;
   }
   
-  /* header */
+  
   
   #masthead {
     position: fixed;
@@ -58,7 +58,7 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
+    color:greenyellow;
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
   }
@@ -96,7 +96,7 @@ body {
     border-left: 0 none;
   }
   
-  /* footer */
+  
   
   footer {
     padding: 30px 0;
@@ -117,12 +117,14 @@ body {
     border-bottom: 2px solid #eeeeee;
   }
   
-  /* main */
+  
   
   #main-container {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
-  }
+    color: green;
+    
+}
   
   .main-section {
     float: left;
@@ -130,11 +132,11 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
+    background:black;
     border: 1px solid #dddddd;
   }
   
-  /* portfolio page */
+  
   
   .work {
     position: relative;
@@ -176,8 +178,7 @@ body {
     margin-right: 25px;
   }
   
-  /* contact page */
-  
+   
   #contact-form ul {
     margin-bottom: 20px;
   }
