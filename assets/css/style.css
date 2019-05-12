@@ -17,6 +17,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+    background-color: gold;
   }
   
   h1,
@@ -59,7 +60,7 @@ body {
     margin: 0 0 30px;
     overflow: auto;
     color:greenyellow;
-    background: #ffffff;
+    background: gold;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -74,7 +75,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: maroon;
   }
   
   nav {
@@ -134,8 +135,10 @@ body {
     margin: 0 0 40px;
     background:black;
     border: 1px solid #dddddd;
+    color: maroon;
   }
-  
+
+   
   
   
   .work {
